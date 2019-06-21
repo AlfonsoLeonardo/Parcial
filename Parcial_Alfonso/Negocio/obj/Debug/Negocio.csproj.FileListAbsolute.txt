@@ -1,0 +1,11 @@
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\Negocio.dll
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\Negocio.pdb
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\Dominio.dll
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\bin\Debug\Dominio.pdb
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\obj\Debug\Negocio.dll
+C:\Users\alfon\source\repos\Parcial_Alfonso\Negocio\obj\Debug\Negocio.pdb
